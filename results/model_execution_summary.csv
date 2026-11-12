@@ -1,0 +1,5 @@
+model_profile,planned_runs,unique_records_observed,awaiting_independent_evaluation,awaiting_feedback,run_failed,turn_budget_exhausted,interrupted,completed_independent_evaluation
+MiniMax M3,40,20,8,4,3,4,1,0
+MiniMax M3.1 Flash,64,64,38,14,12,0,0,0
+DeepSeek V4.1 Flash 1017,40,40,18,7,9,6,0,0
+GLM 5.3 Flash,48,48,30,11,7,0,0,0

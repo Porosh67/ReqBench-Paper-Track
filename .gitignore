@@ -1,0 +1,11 @@
+# Local/editor artifacts
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.vscode/
+.idea/
+__pycache__/
+.pytest_cache/
+.env
+.env.*
