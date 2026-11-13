@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: >-
+  If you use this repository, please cite the repository as software. If you refer to
+  the associated Kaggle research writeup, use the preferred-citation below. When
+  discussing repository contents or evidence, also cite the exact Git commit used.
+type: software
+title: "ReqBench — Paper Track Companion"
+authors:
+  - family-names: Adhikary
+    given-names: Pranto
+url: "https://github.com/Porosh67/ReqBench-Paper-Track"
+preferred-citation:
+  type: report
+  authors:
+    - family-names: Adhikary
+      given-names: Pranto
+  title: "ReqBench: Requirement-State Representations in Coding Agents"
+  institution: "Google — The Gemma 4 Developer Agent Paper Track (Kaggle)"
+  year: 2026
+  month: 11
+  doi: "10.34740/kaggle/w/126232"
+  url: "https://www.kaggle.com/w/126232"
