@@ -1,0 +1,5 @@
+condition,stage,observations,exit_0,exit_1,exit_2,interpretation
+A,final,41,15,16,10,Public runner observations; not independently adjudicated resolution
+B,final,42,20,13,9,Public runner observations; not independently adjudicated resolution
+C,final,44,17,17,10,Public runner observations; not independently adjudicated resolution
+D,initial,43,14,19,10,Initial public runner observations only; no D final stage recorded

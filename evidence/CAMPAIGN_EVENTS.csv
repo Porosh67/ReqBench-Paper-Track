@@ -1,0 +1,4 @@
+event_type,run_id,task_id,condition,repeat,failure_stage,error_or_note,subsequent_action
+campaign_aborted,run_T08_minimax_m3_condB_rep2,T08,B,2,operator_interrupt,KeyboardInterrupt,20 later MiniMax M3 slots recorded as run_skipped_fail_fast
+run_interrupted,run_T08_minimax_m3_condB_rep2,T08,B,2,operator_interrupt,Interrupted run; distinct from skipped slots,interrupted record retained
+run_skipped_fail_fast,,,,,,20 skipped MiniMax M3 run IDs listed in SKIPPED_MINIMAX_M3_RUNS.csv,No provider calls for skipped slots

@@ -1,0 +1,7 @@
+metric,value,unit,notes
+records_with_usage_telemetry,170,records,Not all 172 run records have usage telemetry
+input_tokens,25843964,tokens,Aggregate reported input tokens
+cached_input_tokens,22601942,tokens,Subset of input tokens; do not add again to total
+output_tokens,2096616,tokens,Aggregate reported output tokens
+input_plus_output_tokens,27940580,tokens,Input plus output; cached input is already included in input
+monetary_cost,unknown,,Cost was null/unknown in the archive; not zero
