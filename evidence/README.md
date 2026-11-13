@@ -1,7 +1,7 @@
 # ReqBench — Public Evidence Supplement
 
-**Snapshot date:** 13 November 2026  
-**Campaign:** Track B, 192 planned runs  
+**Snapshot date:** 14 November 2026 (post-submission evidence update)
+**Campaign:** Track B, 192 planned runs
 **Source archive:** `TrackB_192_MiniMax_M3_2026-11-12.zip` (private; not included)
 
 This directory supplements the existing paper companion with structured, sanitized evidence summaries. It does not replace or modify the manuscript, protocol, aggregate results, or reproducibility note already in the repository.
@@ -18,6 +18,9 @@ This directory supplements the existing paper companion with structured, sanitiz
 - `SECURITY_AND_GOVERNANCE_STATUS.md` — G1, G7/G8, rights, and evaluation qualification status.
 - `EVIDENCE_BOUNDARIES.md` — what this public supplement proves and does not prove.
 - `FILE_SHA256SUMS.txt` — SHA-256 checksums for the files in this supplement, excluding the checksum file itself.
+
+- `MINIMAX_M3_TERMINAL_INTERRUPTION_NOTE.md` — detailed M3 interruption, terminal error, and archived usage evidence.
+- `POST_SUBMISSION_CLARIFICATIONS_2026-11-14.md` — post-submission cross-model, resource, token, and operational clarifications.
 
 ## Important interpretation
 
