@@ -1,5 +1,7 @@
 # Citation
 
+**Author:** Pranto Adhikary
+
 This repository is the public Paper Track companion for the ReqBench research project.
 
 ## Preferred citation for the submitted research writeup
